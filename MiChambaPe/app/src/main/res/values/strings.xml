@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiChambaPe</string>
+
+    <string name="olvideContra"><u>¿Olvidaste tu contraseña?</u></string>
+
+    <string name="textRegistrar">¿No tines cuenta? <u>¿Olvidaste tu contraseña?</u></string>
+</resources>
